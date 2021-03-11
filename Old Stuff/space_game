@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Type width and height: "
+/home/jhony_ma/C++/jhony $1 $2
